@@ -1,0 +1,26 @@
+{
+  "name": "fb-opt-canary",
+  "version": "0.0.1",
+  "description": "HTTP Status Checking",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fritbot/fb-opt-canary.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "",
+    "grunt-push-release": "",
+    "grunt-contrib-jshint": "",
+    "grunt-jscs": ""
+  },
+  "keywords": [
+    "fritbot",
+    "fritbot-module"
+  ],
+  "author": "Michael Pratt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fritbot/fb-opt-canary/issues"
+  },
+  "homepage": "https://github.com/fritbot/fb-opt-canary"
+}
