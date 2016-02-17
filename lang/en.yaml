@@ -1,3 +1,6 @@
 canary_bad_url: "That doesn't look like a valid URL."
 canary_request_success: "Pinging %s: %s (%s)"
 canary_request_error: "Error requesting %s: %s"
+canary_request_waiting: "Pinging %s: %s (%s) - Waiting up to 15 minutes for it to come up."
+canary_wait_success: "%s has come up - %s (%s)"
+canary_wait_timeout: "%s has not come up after 15 minutes, I'm not waiting any longer."
