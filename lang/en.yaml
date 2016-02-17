@@ -1,0 +1,3 @@
+canary_bad_url: "That doesn't look like a valid URL."
+canary_request_success: "Pinging %s: %s (%s)"
+canary_request_error: "Error requesting %s: %s"

@@ -6,7 +6,10 @@
     "type": "git",
     "url": "git://github.com/fritbot/fb-opt-canary.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "request": "^2.69.0",
+    "validator": "^4.8.0"
+  },
   "devDependencies": {
     "grunt": "",
     "grunt-push-release": "",
